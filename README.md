@@ -1,4 +1,4 @@
-# teach-lums-machine.learning.course
+# Teach@LUMS | Machine Learning and AI | Experiments
 This repo contains the course material i taught @LUMS. The course name "Business Intelligence and Advance Analytics"  
 
 ### There are two main experiments.
